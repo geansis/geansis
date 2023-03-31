@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Geanderson
 
-- 🔭 I’m currently working on Todimo S/A
+- 🔭 I’m currently working on Todimo S/A (Full-Stack Developer). Projects ERP Protheus, NestJS, Ecommerce VTEX, React Native.
 - 🌱 I’m currently learning English, NodeJS, NestJS and DevOps (GIT,Cloud)
 
 <!--
