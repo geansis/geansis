@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is Geanderson
+
+- 🔭 I’m currently working on Todimo S/A
+- 🌱 I’m currently learning English, NodeJS, NestJS and DevOps (GIT,Cloud)
 
 <!--
 **geansis/geansis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
